@@ -50,7 +50,7 @@ A Python-based Resume Parser that extracts key information from resumes, includi
    Name: John Doe
    Email: johndoe@example.com
    Phone: (123) 456-7890
-   Skills: ['Azure', 'React', 'SAP']
+   Skills: ['Azure', 'React', 'Integration Suite']
 
 ## Technologies used
 
