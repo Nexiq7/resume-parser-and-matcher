@@ -13,12 +13,12 @@ A Python-based Resume Parser that extracts key information from resumes, includi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/resume-parser-matcher.git
+   git clone https://github.com/Nexiq7/resume-parser-and-matcher.git
    cd resume-parser-matcher
 
 2. **Install Dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install pymupdf spacy nltk
 
 3. **Download Required NLP Models & Stopwords:**
    ```bash
@@ -33,7 +33,7 @@ A Python-based Resume Parser that extracts key information from resumes, includi
 2. **Run the Script:**
 
    ```bash
-   python resume_parser.py
+   python resume_parser_and_matcher.py
 
 3. **Input Required Skills:** The script will prompt you to enter a comma-separated list of skills.
 
